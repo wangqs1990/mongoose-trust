@@ -4,7 +4,7 @@
   "description": "a rbac module use with mongoose",
   "main": "src/index.js",
   "dependencies": {
-    "mongoose": "^4.7.7"
+    "mongoose": "^5.9.27"
   },
   "devDependencies": {},
   "scripts": {
